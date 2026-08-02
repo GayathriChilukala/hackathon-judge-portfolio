@@ -4,7 +4,7 @@ This repository documents the hackathons where I have served as a judge and ment
 
 ## Judging Experience
 
-| Hackathon | Role | Date | Event | Certificate |
+| Hackathon | Role | Date | Event |
 |-----------|------|------|-------|-------------|
 | AI Builders Hackathon 2026 | Judge | 2026 | https://ai-builders-hackathon-2026.devpost.com/ |
 | Built with Python Hackathon | Judge | 2026 | https://built-with-python-hackathon.devpost.com/ | 
