@@ -14,20 +14,18 @@ This repository documents the hackathons where I have served as a judge and ment
 | Pixel Forge AI Hackathon     | Judge          | Aug 15–22, 2026     | https://pixel-forge-ai-hackathon-08.devpost.com/  |
 | OregonHacks                  | Judge & Mentor | Aug 15–17, 2026     | https://oregonhacks.devpost.com/                  |
 | Hefty Hacks                  | Judge          | Oct 24–Nov 1, 2026  | https://hefty-hacks.devfolio.co/overview          |
-
-
-
+| LexHack 2026                 | Judge          | Sep 11–28, 2026     | https://lexhack-2026.devpost.com/                 |
 
 ## Evaluation Areas
 
-- Artificial Intelligence & Machine Learning
-- Software Engineering
-- Cloud Computing
-- Full-Stack Development
-- Technical Innovation
-- Scalability
-- Product Impact
-- User Experience & Presentation
+* Artificial Intelligence & Machine Learning
+* Software Engineering
+* Cloud Computing
+* Full-Stack Development
+* Technical Innovation
+* Scalability
+* Product Impact
+* User Experience & Presentation
 
 ## Certificates
 
