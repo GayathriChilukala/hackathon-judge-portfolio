@@ -15,6 +15,7 @@ This repository documents the hackathons where I have served as a judge and ment
 | AI Builders Hackathon 2026   | Judge          | Aug 1–Sept 15, 2026 | https://ai-builders-hackathon-2026.devpost.com/   |
 | LexHack 2026                 | Judge          | Sep 11–28, 2026     | https://lexhack-2026.devpost.com/                 |
 | Hefty Hacks                  | Judge          | Oct 24–Nov 1, 2026  | https://hefty-hacks.devfolio.co/overview          |
+| Arbiter Hacks V1             | Judge          | Oct 20 – Dec 20     | https://arbiter-hacks-v1.devpost.com/             |
 
 ## Evaluation Areas
 
