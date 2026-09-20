@@ -16,6 +16,7 @@ This repository documents the hackathons where I have served as a judge and ment
 | LexHack 2026                 | Judge          | Sep 11–28, 2026     | https://lexhack-2026.devpost.com/                 |
 | Hefty Hacks                  | Judge          | Oct 24–Nov 1, 2026  | https://hefty-hacks.devfolio.co/overview          |
 | Arbiter Hacks V1             | Judge          | Oct 20 – Dec 20     | https://arbiter-hacks-v1.devpost.com/             |
+| NEIGHBORHOOD HACKS           | Judge          | Oct 16 – 24, 2026   | https://neighborhoodhacks.org/judging/            |
 
 ## Evaluation Areas
 
